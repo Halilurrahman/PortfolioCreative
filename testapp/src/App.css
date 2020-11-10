@@ -1,0 +1,25 @@
+html{
+  scroll-behavior: smooth;
+}
+.App{
+  background: rgb(6,1,95);
+ background: linear-gradient(90deg, rgba(6,1,95,1) 40%, rgba(8,235,236,1) 86%, rgba(234,20,208,1) 95%);
+  width: 100%;
+  height: auto;
+  color: rgb(255, 255, 255);
+  /* display: flex; */
+ font-family: "aero";
+ font-size: 1vw;
+ /* font-family: "predator"; */
+ padding-top: 20px;
+ padding-bottom: 10vw;
+
+}
+@font-face {
+  font-family: "aero";
+  src: url(./fonts/Aerolite.otf);
+  /* font-family: "predator";
+  src: url(./fonts/CodePredators-Regular.ttf); */
+}
+
+
