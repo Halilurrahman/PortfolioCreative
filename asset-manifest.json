@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.438eeeb3.chunk.css",
+    "main.js": "/static/js/main.886dd4ef.chunk.js",
+    "main.js.map": "/static/js/main.886dd4ef.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.81fa1bb6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.81fa1bb6.js.map",
+    "static/css/2.5b42024a.chunk.css": "/static/css/2.5b42024a.chunk.css",
+    "static/js/2.ebbe1ec8.chunk.js": "/static/js/2.ebbe1ec8.chunk.js",
+    "static/js/2.ebbe1ec8.chunk.js.map": "/static/js/2.ebbe1ec8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.5b42024a.chunk.css.map": "/static/css/2.5b42024a.chunk.css.map",
+    "static/css/main.438eeeb3.chunk.css.map": "/static/css/main.438eeeb3.chunk.css.map",
+    "static/js/2.ebbe1ec8.chunk.js.LICENSE.txt": "/static/js/2.ebbe1ec8.chunk.js.LICENSE.txt",
+    "static/media/HeroBanner.css": "/static/media/Aerolite.b5b735ff.otf",
+    "static/media/calligraphy1.6c3885b6.jpg": "/static/media/calligraphy1.6c3885b6.jpg",
+    "static/media/calligraphy10.f08951ad.jpg": "/static/media/calligraphy10.f08951ad.jpg",
+    "static/media/calligraphy11.6b707b8e.jpg": "/static/media/calligraphy11.6b707b8e.jpg",
+    "static/media/calligraphy12.621f48c3.jpg": "/static/media/calligraphy12.621f48c3.jpg",
+    "static/media/calligraphy2.0d8c5dda.jpg": "/static/media/calligraphy2.0d8c5dda.jpg",
+    "static/media/calligraphy3.6e88d8fc.jpg": "/static/media/calligraphy3.6e88d8fc.jpg",
+    "static/media/calligraphy4.e6f48173.jpg": "/static/media/calligraphy4.e6f48173.jpg",
+    "static/media/calligraphy5.c197604a.jpg": "/static/media/calligraphy5.c197604a.jpg",
+    "static/media/calligraphy6.8a3f89c9.jpg": "/static/media/calligraphy6.8a3f89c9.jpg",
+    "static/media/calligraphy7.e7210e33.jpg": "/static/media/calligraphy7.e7210e33.jpg",
+    "static/media/calligraphy8.6e27c485.jpg": "/static/media/calligraphy8.6e27c485.jpg",
+    "static/media/calligraphy9.ad20a140.jpg": "/static/media/calligraphy9.ad20a140.jpg",
+    "static/media/lotr_quote.c0e61b5d.jpg": "/static/media/lotr_quote.c0e61b5d.jpg",
+    "static/media/newarabicrune.37457552.png": "/static/media/newarabicrune.37457552.png",
+    "static/media/practice.69a35401.jpg": "/static/media/practice.69a35401.jpg",
+    "static/media/profile2.13d2eff7.png": "/static/media/profile2.13d2eff7.png",
+    "static/media/styles.css": "/static/media/revicons.e8746a62.woff",
+    "static/media/witch_king.4f79b273.jpg": "/static/media/witch_king.4f79b273.jpg",
+    "static/media/wolf.48a9b23d.jpg": "/static/media/wolf.48a9b23d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81fa1bb6.js",
+    "static/css/2.5b42024a.chunk.css",
+    "static/js/2.ebbe1ec8.chunk.js",
+    "static/css/main.438eeeb3.chunk.css",
+    "static/js/main.886dd4ef.chunk.js"
+  ]
+}
